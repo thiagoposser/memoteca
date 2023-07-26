@@ -4,67 +4,71 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "ttttttttttttttttttttt",
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": false
     },
     {
       "conteudo": "ttttttttttttttttttttt",
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "ttttttttttttttttttttt",
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
-      "id": 6
+      "id": 6,
+      "favorito": true
     },
     {
       "conteudo": "ttttttttttttttttttttt",
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
-      "id": 7
+      "id": 7,
+      "favorito": false
     },
     {
       "conteudo": "novo ",
       "autoria": "mais novo",
       "modelo": "modelo2",
-      "id": 9
+      "id": 9,
+      "favorito": true
     },
     {
       "conteudo": "mais um novo",
       "autoria": "mais novo",
       "modelo": "modelo3",
-      "id": 10
+      "id": 10,
+      "favorito": false
     },
     {
       "conteudo": "uuuuuuuuuuu",
       "autoria": "xxxxxxxxxxxxx",
       "modelo": "modelo2",
-      "id": 11
+      "id": 11,
+      "favorito": false
     },
     {
       "id": 12,
       "conteudo": "uuuuu",
       "autoria": "xxxxxxxxxxxxx14",
-      "modelo": "modelo2"
-    },
-    {
-      "conteudo": "7777777777777",
-      "autoria": "mm7777",
-      "modelo": "modelo3",
-      "id": 13
+      "modelo": "modelo2",
+      "favorito": true
     }
   ]
 }
