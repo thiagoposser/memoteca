@@ -12,14 +12,14 @@
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "ttttttttttttttttttttt",
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
       "id": 4,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "ttttttttttttttttttttt",
@@ -33,7 +33,7 @@
       "autoria": "hhhhhhhhhhhhhhhh",
       "modelo": "modelo1",
       "id": 6,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "ttttttttttttttttttttt",
@@ -47,7 +47,7 @@
       "autoria": "mais novo",
       "modelo": "modelo2",
       "id": 9,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "mais um novo",
@@ -68,7 +68,7 @@
       "conteudo": "uuuuu",
       "autoria": "xxxxxxxxxxxxx14",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     }
   ]
 }
