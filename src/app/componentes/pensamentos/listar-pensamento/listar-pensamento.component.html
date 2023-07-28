@@ -12,9 +12,9 @@
       <img src="/assets/lupa.png" atl="lupa">
 
     </div>
-    <h2 class="ff-inter">Meu Mural</h2>
+    <h2 class="ff-inter">{{ titulo }}</h2>
     <div class="botoes">
-      <button class="botao">Meu mural</button>
+      <button class="botao" (click)="recarregarComponente()">Meu mural</button>
       <button class="botao" (click)="listarFavoritos()">Meu Favoritos</button>
       <button routerLink="/criarPensamento" class="botao">Novo Pensamento</button>
     </div>
